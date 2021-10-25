@@ -1,0 +1,13 @@
+form {
+    background-color: rgb(250, 253, 253);
+    border: thin solid black;
+    text-align: center;
+    width: 250px;
+    margin:auto;
+    
+
+}
+body {
+    text-align: center;
+    background-color:cornflowerblue;
+}
